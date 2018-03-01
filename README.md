@@ -1,8 +1,12 @@
 # workspace_config
 ## ohmyzsh
--install oh my zsh
--overwrite ~.zshrc with .zshrc in repo
+<ol>
+  <li>install oh my zsh</li>
+  <li>overwrite ~.zshrc with .zshrc in repo</li>
+</ol>
 
 ## iterm 2
--install iterm2
--import json file as profile
+<ol>
+  <li>install iterm2</li>
+  <li>import json file as profile</li>
+</ol>
